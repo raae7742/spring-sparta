@@ -1,16 +1,19 @@
-### 1주차
+## 1주차
+
 
 + Dependencies
   + Lombok
   + Spring Web
   + Spring Data JPA
   + H2 Database
-  + MySQL Driver
-
+  + MySQL Driver  
+<br/>
+  
 + Rest
   + 서버의 응답이 JSON 형식
   + HTML, CSS 등을 주고받을 때에는 Rest x
-
+<br/>
+  
 + Controller
   + 클라이언트의 요청(Request)을 전달받는 코드
   + `@RestController`: JSON만 반환하는 경우
